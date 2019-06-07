@@ -21,8 +21,6 @@ const fs = require('fs');
 
 const gif = require("gif-search");
  
-client.login('NDI4OTQ2OTQyOTAzNDUxNjQ4.XPm7VA.nOR0QJqMuy70ZHmQwassISxDNZQ');
-
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 });
