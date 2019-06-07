@@ -19,8 +19,6 @@ const ytdl = require('ytdl-core');
 
 const fs = require('fs');
 
-Client on ()
-
 const gif = require("gif-search");
  
 client.on('ready', () => {
